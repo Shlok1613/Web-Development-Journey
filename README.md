@@ -56,8 +56,6 @@ The course explores a wide range of web technologies including:
 * Express.js
 * REST APIs
 * EJS Templates
-* MongoDB
-* Mongoose
 * Authentication
 * Deployment
 
